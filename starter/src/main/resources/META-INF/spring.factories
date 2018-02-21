@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.nc.starter.FillWaterMachineConfiguration
+org.springframework.context.ApplicationContextInitializer=com.nc.starter.ProfileCheckerContextInializer
+org.springframework.boot.env.EnvironmentPostProcessor=com.nc.starter.FillWaterMachineEnvPP

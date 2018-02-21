@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: summer
+
+  application:
+    name: water-machine
+server:
+  port: 8081
+is-coca: true
+
+наполнить.адрес: московская12, кирова311
